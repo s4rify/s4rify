@@ -1,5 +1,4 @@
-![Banner](banner.png)
-Format: ![Alt Text](banner.png)
+[Alt Text](banner.png)
 
 Hi I am Sarah!
 
