@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/s4rify/s4rify/blob/master/banner_small_avatar.png)
+![Alt Text](https://github.com/s4rify/s4rify/blob/master/banner_avatar.png)
 
 Hi, I am Sarah!
 
